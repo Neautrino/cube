@@ -2,7 +2,7 @@
 
 A clean and modern task management application built with Next.js, TypeScript, and MongoDB. Cube provides a simple yet powerful way to manage tasks, users, and role-based permissions.
 
-![Cube Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Cube+Dashboard)
+**🌐 Live Application**: [https://cube-dvcj.vercel.app/](https://cube-dvcj.vercel.app/)
 
 ## ✨ Features
 
@@ -68,6 +68,15 @@ A clean and modern task management application built with Next.js, TypeScript, a
 1. The application will automatically create default roles (Admin, Manager, User) on first run
 2. Create your first admin user through the API or database
 3. Log in and start managing tasks and users!
+
+### Testing the Application
+
+You can test the live application using the following superadmin credentials:
+
+- **Email**: `super@gmail.com`
+- **Password**: `super`
+
+This account has full administrative privileges and can access all features of the application.
 
 ## 📁 Project Structure
 
